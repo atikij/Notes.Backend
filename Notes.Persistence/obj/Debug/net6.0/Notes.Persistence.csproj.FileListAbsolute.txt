@@ -1,0 +1,17 @@
+D:\rider repos\Notes.Backend\Notes.Persistence\bin\Debug\net6.0\Notes.Persistence.deps.json
+D:\rider repos\Notes.Backend\Notes.Persistence\bin\Debug\net6.0\Notes.Persistence.dll
+D:\rider repos\Notes.Backend\Notes.Persistence\bin\Debug\net6.0\Notes.Persistence.pdb
+D:\rider repos\Notes.Backend\Notes.Persistence\bin\Debug\net6.0\Notes.Application.dll
+D:\rider repos\Notes.Backend\Notes.Persistence\bin\Debug\net6.0\Notes.Domain.dll
+D:\rider repos\Notes.Backend\Notes.Persistence\bin\Debug\net6.0\Notes.Application.pdb
+D:\rider repos\Notes.Backend\Notes.Persistence\bin\Debug\net6.0\Notes.Domain.pdb
+D:\rider repos\Notes.Backend\Notes.Persistence\obj\Debug\net6.0\Notes.Persistence.csproj.AssemblyReference.cache
+D:\rider repos\Notes.Backend\Notes.Persistence\obj\Debug\net6.0\Notes.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\rider repos\Notes.Backend\Notes.Persistence\obj\Debug\net6.0\Notes.Persistence.AssemblyInfoInputs.cache
+D:\rider repos\Notes.Backend\Notes.Persistence\obj\Debug\net6.0\Notes.Persistence.AssemblyInfo.cs
+D:\rider repos\Notes.Backend\Notes.Persistence\obj\Debug\net6.0\Notes.Persistence.csproj.CoreCompileInputs.cache
+D:\rider repos\Notes.Backend\Notes.Persistence\obj\Debug\net6.0\Notes.Persistence.csproj.CopyComplete
+D:\rider repos\Notes.Backend\Notes.Persistence\obj\Debug\net6.0\Notes.Persistence.dll
+D:\rider repos\Notes.Backend\Notes.Persistence\obj\Debug\net6.0\refint\Notes.Persistence.dll
+D:\rider repos\Notes.Backend\Notes.Persistence\obj\Debug\net6.0\Notes.Persistence.pdb
+D:\rider repos\Notes.Backend\Notes.Persistence\obj\Debug\net6.0\ref\Notes.Persistence.dll

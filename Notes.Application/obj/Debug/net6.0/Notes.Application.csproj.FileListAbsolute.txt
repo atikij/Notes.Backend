@@ -1,0 +1,15 @@
+D:\rider repos\Notes.Backend\Notes.Application\bin\Debug\net6.0\Notes.Application.deps.json
+D:\rider repos\Notes.Backend\Notes.Application\bin\Debug\net6.0\Notes.Application.dll
+D:\rider repos\Notes.Backend\Notes.Application\bin\Debug\net6.0\Notes.Application.pdb
+D:\rider repos\Notes.Backend\Notes.Application\bin\Debug\net6.0\Notes.Domain.dll
+D:\rider repos\Notes.Backend\Notes.Application\bin\Debug\net6.0\Notes.Domain.pdb
+D:\rider repos\Notes.Backend\Notes.Application\obj\Debug\net6.0\Notes.Application.csproj.AssemblyReference.cache
+D:\rider repos\Notes.Backend\Notes.Application\obj\Debug\net6.0\Notes.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\rider repos\Notes.Backend\Notes.Application\obj\Debug\net6.0\Notes.Application.AssemblyInfoInputs.cache
+D:\rider repos\Notes.Backend\Notes.Application\obj\Debug\net6.0\Notes.Application.AssemblyInfo.cs
+D:\rider repos\Notes.Backend\Notes.Application\obj\Debug\net6.0\Notes.Application.csproj.CoreCompileInputs.cache
+D:\rider repos\Notes.Backend\Notes.Application\obj\Debug\net6.0\Notes.Application.csproj.CopyComplete
+D:\rider repos\Notes.Backend\Notes.Application\obj\Debug\net6.0\Notes.Application.dll
+D:\rider repos\Notes.Backend\Notes.Application\obj\Debug\net6.0\refint\Notes.Application.dll
+D:\rider repos\Notes.Backend\Notes.Application\obj\Debug\net6.0\Notes.Application.pdb
+D:\rider repos\Notes.Backend\Notes.Application\obj\Debug\net6.0\ref\Notes.Application.dll

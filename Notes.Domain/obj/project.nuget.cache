@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PToFQF9GY47Felc9y0yHcom9aP/U2hUHpvFVol0vkD7kYgfZEgtvR/njj0ssDcrXINJliFyMRVRvqLQswi0qwg==",
+  "success": true,
+  "projectFilePath": "D:\\rider repos\\Notes.Backend\\Notes.Domain\\Notes.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\пк\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\пк\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\пк\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
